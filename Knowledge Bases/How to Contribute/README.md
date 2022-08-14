@@ -1,4 +1,4 @@
-# How to Contribute
+<h1 style="font-size:45px; text-align:center">How to Contribute ?</h1>
 
 ## Test Heading 2
 
