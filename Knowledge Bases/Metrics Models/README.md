@@ -1,4 +1,4 @@
-<h1 style="font-size:45px; text-align:center">Knowledge Base: About CHAOSS</h1>
+<h1 style="font-size:45px; text-align:center">Knowledge Base: Metrics Models</h1>
 
 ## Test Heading 2
 
