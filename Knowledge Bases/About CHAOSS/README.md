@@ -1,4 +1,4 @@
-# About CHAOSS
+<h1 style="font-size:45px; text-align:center">Knowledge Base: About CHAOSS</h1>
 
 ## Test Heading 2
 
